@@ -14,6 +14,7 @@ def get_married(person)
   end
 
 class PartnerError < StandardError
+  
   end
 
 end
